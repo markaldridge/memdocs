@@ -100,7 +100,7 @@ Set the app availability based on a date and time for a required app by using th
     > - **Uninstall**: You can choose **uninstall this app for all users** and/or **uninstall this app for all devices**.
 
 6. To modify the **End user notification** options, select **Show all toast notifications**.
-7. In the **Edit assignment** pane, set **Ender user notifications** to **Show all toast notifications**. Note that you can set **End user notifications** to **Show all toast notifications**, **Show toast notifications for computer restarts**, or **Hide all toast notifications**.
+7. In the **Edit assignment** pane, set **End user notifications** to **Show all toast notifications**. Note that you can set **End user notifications** to **Show all toast notifications**, **Show toast notifications for computer restarts**, or **Hide all toast notifications**.
 8. Set **App availability** to **A specific date and time** and select your date and time. This date and time specify when the app is downloaded to the user's device. 
 9. Set **App installation deadline** to **A specific date and time** and select your date and time. This date and time specify when the app is installed on the user's device. When more than one assignment is made for the same user or device, the app installation deadline time is picked based on the earliest time possible.
 
